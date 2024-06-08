@@ -16,8 +16,7 @@ cd finance-tracker
 ```
 2. Install the required dependencies:
 ```console
-git clone https://github.com/allen7hearz/finance-tracker.git
-cd finance-tracker
+pip install requirements.txt
 ```
 
 # Usage
