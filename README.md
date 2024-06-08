@@ -11,12 +11,12 @@ Features
 # Installation
 1. Clone the repository:
 ```console
-git clone https://github.com/your-username/finance-tracker.git
+git clone https://github.com/allen7hearz/finance-tracker.git
 cd finance-tracker
 ```
 2. Install the required dependencies:
 ```console
-git clone https://github.com/your-username/finance-tracker.git
+git clone https://github.com/allen7hearz/finance-tracker.git
 cd finance-tracker
 ```
 
