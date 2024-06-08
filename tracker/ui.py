@@ -291,7 +291,3 @@ def edit_transaction(stdscr, tracker):
 
     stdscr.addstr(8, 0, "Press any key to return to the main menu")
     stdscr.getch()
-
-
-if __name__ == "__main__":
-    curses.wrapper(main_menu)
